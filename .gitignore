@@ -1,2 +1,3 @@
-## Environmental
-/.idea
+# IntellijIdea files
+*.iml
+.idea
