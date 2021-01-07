@@ -1,2 +1,7 @@
 # IntellijIdea files
-/**/.idea/*
+# User-specific stuff:
+.idea/workspace.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/vshaurme.iml
