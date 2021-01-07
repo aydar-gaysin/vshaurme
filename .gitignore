@@ -6,3 +6,7 @@
 .idea/vcs.xml
 .idea/modules.xml
 .idea/vshaurme.iml
+
+# Not found but as stated in task
+.vscode
+.DS_Store
