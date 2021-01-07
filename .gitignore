@@ -10,3 +10,6 @@
 # Not found but as stated in task
 .vscode
 .DS_Store
+
+# ignore SQLite3 files
+*.sqlite3
